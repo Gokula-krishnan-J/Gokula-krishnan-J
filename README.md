@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gokula Krishnan J</h1>
 <h3 align="center">Aspiring Data Analyst | Python Developer | Front-End Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gokulakrishnan-j&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
@@ -15,6 +12,7 @@
 - 🏆 SDG Ideathon 2.0 Winner | IDEATHON Winner (KENKO Project)
 - 📫 Reach me at: [krishnanjeevanandam@gmail.com](mailto:krishnanjeevanandam@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/gokula-krishnan-jeevanandam-112b68227/)
+- 💻 [LeetCode Profile](https://leetcode.com/u/Gokula-Krishnan04/)
 
 ---
 
@@ -56,18 +54,10 @@ A deep learning-powered website for **plant disease detection** using uploaded c
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokulakrishnan-j&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulakrishnan-j&theme=radical" width="47%" />
-</p>
 
 ---
 
 ### ⚡ Fun Fact
 
 > “I celebrate Bumrah's yorkers louder than firecrackers, and I'm chasing my dream of being the next Dhoni of tech and cricket 🇮🇳💻🏏”
-
----
-
