@@ -45,23 +45,6 @@
 
 ---
 
-### 📂 Projects
-
-#### 🌾 Crop Disease Monitoring Website
-A deep learning-powered website for *plant disease detection* using uploaded crop images.  
-🖼 Frontend built using *HTML/CSS, designed with **Figma*.  
-💡 Helps farmers with early disease diagnosis and actionable advice.
-
----
-
-### 📜 Certifications
-
-- ✅ Python Programming - Cisco Networking Academy  
-- ✅ SQL Skills - SkillRack  
-- ✅ Database Systems - NPTEL  
-- ✅ HTML & CSS - Spoken Tutorial, IIT Bombay
-
----
 
 ### ⚡ Inspired by RCB & King Kohli
 
