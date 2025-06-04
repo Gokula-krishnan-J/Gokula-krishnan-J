@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gokula Krishnan J</h1>
 <h3 align="center">Aspiring Data Analyst | Python Developer | Front-End Enthusiast</h3>
 
-
 ---
 
 ### 🧑‍💼 About Me
@@ -19,20 +18,23 @@
 ### 🧠 Skills Log
 
 #### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
 
 #### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 
 #### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows/windows-original.svg" alt="Excel" width="40" height="40"/>
 
 ---
 
@@ -54,10 +56,11 @@ A deep learning-powered website for **plant disease detection** using uploaded c
 
 ---
 
+### ⚡ Inspired by RCB & King Kohli
 
+> **"Just like RCB — we may not win every time, but we rise stronger with hope, passion, and belief. Every setback is a setup for a greater comeback, and every challenge fuels the fire within. Virat Kohli's journey — from doubters to dominance, from setbacks to centuries — proves that consistency, discipline, and heart can break any barrier. RCB showed us that dreams do come true, and like King Kohli, I’m not just chasing greatness — I’m building it. One day, the world will witness me achieve mine — in both tech and cricket. 💻🏏🔥"**
 
----
+<p align="center">
+  <img src="https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_80/lsci/db/PICTURES/CMS/401600/401666.jpg" alt="Virat Kohli Celebration" width="600px"/>
+</p>
 
-### ⚡ Fun Fact
-
-> “I celebrate Bumrah's yorkers louder than firecrackers, and I'm chasing my dream of being the next Dhoni of tech and cricket 🇮🇳💻🏏”
