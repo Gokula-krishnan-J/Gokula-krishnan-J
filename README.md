@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gokula Krishnan J</h1>
-<h3 align="center">Aspiring Data Analyst | Python Developer | Front-End Enthusiast</h3>
+<h3 align="center">Aspiring Database Administrator | Python Developer | Front-End Enthusiast</h3>
 
 ---
 
